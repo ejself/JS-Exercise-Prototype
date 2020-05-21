@@ -42,7 +42,7 @@ Two options are included below.
   1. Install dependencies by typing `npm install`.
   1. Run tests by typing `npm run test:watch`.
   1. Work on your branch, push commits and create PR as usual.
-  1. Make sure to commit often!
+  1. Make sure to commit often
 
   <img alt='instructions VSCode' src='./instructionsVScode.png'>
 </details>
